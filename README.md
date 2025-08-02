@@ -2,7 +2,6 @@
 
 A modern, responsive help desk website built with pure HTML, CSS, and JavaScript. QuickDesk provides a complete user interface for support ticket management with user authentication, dashboard functionality, and interactive demos.
 
-![QuickDesk Preview](https://via.placeholder.com/800x400/2563eb/ffffff?text=QuickDesk+Help+Desk+System)
 
 ## 🚀 Features
 
