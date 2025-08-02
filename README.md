@@ -52,5 +52,7 @@ A modern, responsive help desk website built with pure HTML, CSS, and JavaScript
    - Create tickets with categories and priorities
    - Add descriptions and attachments
    - Track ticket status and responses
-  
-   - Made with ❤️ by the Darshil Patel(The Disciples).
+
+
+
+     #Made with ❤️ by the Darshil Patel(The Disciples).
